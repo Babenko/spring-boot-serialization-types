@@ -10,4 +10,6 @@ public class RankingApplication {
 		SpringApplication.run(RankingApplication.class, args);
 	}
 
+
+
 }
